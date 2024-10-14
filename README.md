@@ -1,7 +1,7 @@
 # Sick Leave Analysis: Hypothesis tests using p-value
 
 
-## Introduction
+## Abstract
 This time we're going to work with a tiny dataset of sick leave frequency by age and sex.
 The data was collected over the year.
 
